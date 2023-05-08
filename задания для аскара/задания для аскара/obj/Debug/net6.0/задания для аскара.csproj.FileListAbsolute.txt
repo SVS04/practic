@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\задания для аскара\задания для аскара\bin\Debug\net6.0\задания для аскара.exe
+C:\Users\Admin\source\repos\задания для аскара\задания для аскара\bin\Debug\net6.0\задания для аскара.deps.json
+C:\Users\Admin\source\repos\задания для аскара\задания для аскара\bin\Debug\net6.0\задания для аскара.runtimeconfig.json
+C:\Users\Admin\source\repos\задания для аскара\задания для аскара\bin\Debug\net6.0\задания для аскара.dll
+C:\Users\Admin\source\repos\задания для аскара\задания для аскара\bin\Debug\net6.0\задания для аскара.pdb
+C:\Users\Admin\source\repos\задания для аскара\задания для аскара\obj\Debug\net6.0\задания для аскара.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\задания для аскара\задания для аскара\obj\Debug\net6.0\задания для аскара.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\задания для аскара\задания для аскара\obj\Debug\net6.0\задания для аскара.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\задания для аскара\задания для аскара\obj\Debug\net6.0\задания для аскара.AssemblyInfo.cs
+C:\Users\Admin\source\repos\задания для аскара\задания для аскара\obj\Debug\net6.0\задания для аскара.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\задания для аскара\задания для аскара\obj\Debug\net6.0\задания для аскара.dll
+C:\Users\Admin\source\repos\задания для аскара\задания для аскара\obj\Debug\net6.0\refint\задания для аскара.dll
+C:\Users\Admin\source\repos\задания для аскара\задания для аскара\obj\Debug\net6.0\задания для аскара.pdb
+C:\Users\Admin\source\repos\задания для аскара\задания для аскара\obj\Debug\net6.0\задания для аскара.genruntimeconfig.cache
+C:\Users\Admin\source\repos\задания для аскара\задания для аскара\obj\Debug\net6.0\ref\задания для аскара.dll

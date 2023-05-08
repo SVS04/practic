@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\задания для аскара\задача 4\bin\Debug\задача 4.exe.config
+C:\Users\Admin\source\repos\задания для аскара\задача 4\bin\Debug\задача 4.exe
+C:\Users\Admin\source\repos\задания для аскара\задача 4\bin\Debug\задача 4.pdb
+C:\Users\Admin\source\repos\задания для аскара\задача 4\obj\Debug\задача 4.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\задания для аскара\задача 4\obj\Debug\задача 4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\задания для аскара\задача 4\obj\Debug\задача 4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\задания для аскара\задача 4\obj\Debug\задача 4.exe
+C:\Users\Admin\source\repos\задания для аскара\задача 4\obj\Debug\задача 4.pdb
